@@ -46,7 +46,6 @@
       </div>
     </div>
   </div>
-
 <!-- Secção de Projetos -->
 <h2>Projetos</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
@@ -98,6 +97,14 @@
   </div>
 
   <!-- Artigo 3 -->
-  <div style="width: 30%; border: 1px solid #ddd; padding: 15px; border-radius: 10
+  <div style="width: 30%; border: 1px solid #ddd; padding: 15px; border-radius: 10px;">
+    <h3>Python para Análise de Dados</h3>
+    <img src="https://via.placeholder.com/150" alt="Python" style="width: 100%; border-radius: 5px;">
+    <p>Como usar Python para transformar dados em insights valiosos.</p>
+    <a href="https://link-para-o-artigo" target="_blank">Ler Artigo</a>
+  </div>
+
+</div>
+
 
 
