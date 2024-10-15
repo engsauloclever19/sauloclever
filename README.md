@@ -35,20 +35,23 @@ Aqui estão as principais ferramentas e tecnologias que eu utilizo no meu trabal
   - Estatística Descritiva
   - Modelos Preditivos
  
-  - <div style="display: flex; justify-content: space-between;">
+ <div style="display: flex; justify-content: space-between;">
+  <!-- Quadrado de Habilidades -->
   <div style="width: 48%;">
     <h3>Minhas Habilidades</h3>
     <ul>
-      <li>Python</li>
-      <li>SQL</li>
-      <li>Pandas</li>
-      <li>Power BI</li>
-      <li>Excel</li>
+      <li><img src="https://img.icons8.com/color/48/000000/python.png" width="20"/> Python</li>
+      <li><img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="20"/> SQL</li>
+      <li><img src="https://img.icons8.com/color/48/000000/pandas.png" width="20"/> Pandas</li>
+      <li><img src="https://img.icons8.com/color/48/000000/power-bi.png" width="20"/> Power BI</li>
+      <li><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="20"/> Excel</li>
     </ul>
   </div>
 
+  <!-- Quadrado de Foto -->
   <div style="width: 48%; text-align: center;">
     <h3>Minha Foto</h3>
     <img src="https://via.placeholder.com/150" alt="Minha Foto" width="150" height="150">
   </div>
 </div>
+
