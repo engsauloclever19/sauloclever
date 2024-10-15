@@ -1,0 +1,18 @@
+---
+layout: default
+title: "Projetos"
+---
+
+# Meus Projetos
+
+Aqui estão alguns dos meus principais projetos de análise de dados:
+
+## [Análise de Vendas](https://github.com/seu-usuario/projeto-vendas)
+- **Descrição**: Análise das vendas de uma empresa.
+- **Tecnologias**: Python, Pandas, Matplotlib.
+- [Veja o projeto](https://github.com/seu-usuario/projeto-vendas)
+
+## [Visualização de Redes Sociais](https://github.com/seu-usuario/projeto-redes-sociais)
+- **Descrição**: Estudo das interações nas redes sociais.
+- **Tecnologias**: Python, Seaborn, Plotly.
+- [Veja o projeto](https://github.com/seu-usuario/projeto-redes-sociais)
