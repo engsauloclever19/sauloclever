@@ -34,3 +34,21 @@ Aqui estão as principais ferramentas e tecnologias que eu utilizo no meu trabal
 - **Ferramentas Estatísticas**:
   - Estatística Descritiva
   - Modelos Preditivos
+ 
+  - <div style="display: flex; justify-content: space-between;">
+  <div style="width: 48%;">
+    <h3>Minhas Habilidades</h3>
+    <ul>
+      <li>Python</li>
+      <li>SQL</li>
+      <li>Pandas</li>
+      <li>Power BI</li>
+      <li>Excel</li>
+    </ul>
+  </div>
+
+  <div style="width: 48%; text-align: center;">
+    <h3>Minha Foto</h3>
+    <img src="https://via.placeholder.com/150" alt="Minha Foto" width="150" height="150">
+  </div>
+</div>
