@@ -1,3 +1,4 @@
+<div style="background-color: #f0f8ff; padding: 20px;">
 ## Sobre mim
 <div style="display: flex; justify-content: space-between;">
   
@@ -107,4 +108,5 @@
 </div>
 
 
+</div>
 
