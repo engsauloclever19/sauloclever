@@ -47,23 +47,6 @@ Sobre mim
       </div>
     </div>
   </div>
-<!-- Secção de Projetos -->
-<h2>Projetos</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <!-- Seção com Habilidades e Foto (lado a lado) -->
-<div style="display: flex; justify-content: space-between;">
-  <!-- Habilidades -->
-  <div style="width: 48%;">
-    <h3>Minhas Habilidades</h3>
-    <p>Descrição das minhas habilidades aqui.</p>
-  </div>
-
-  <!-- Foto -->
-  <div style="width: 48%; text-align: center;">
-    <h3>Minha Foto</h3>
-    <img src="https://via.placeholder.com/150" alt="Minha Foto" width="150" height="150">
-  </div>
-</div>
 
 <!-- Separador entre seções -->
 <hr>
