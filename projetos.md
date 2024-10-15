@@ -5,7 +5,6 @@ Aqui estão as principais ferramentas e tecnologias que eu utilizo:
 - **Linguagens de Programação**: 
   - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
   - ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) SQL
-  - ![R](https://img.icons8.com/ios-filled/50/000000/r-project.png) R
 
 - **Ferramentas de Visualização**:
   - ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) Power BI
